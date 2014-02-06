@@ -1,4 +1,4 @@
-### Je provoque des conflits ###
+### Fichier pour générer des conflits après éditions multiples. ###
 ###################################################################
 
 ######################################################
